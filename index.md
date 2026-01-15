@@ -1,3 +1,19 @@
+---
+layout: default
+title: Home
+---
+
+# Selected Projects
+
+![Project 1 Description](/assets/images/project1.jpg)
+### Project Title
+A short, elegant description of the work performed.
+
+![Project 2 Description](/assets/images/project2.jpg)
+### Project Title
+Focus on the impact and the visual storytelling.
+
+
 # Hi, I'm Saba Yaqoob.
 Artist / Designer / Writer
 
